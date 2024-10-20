@@ -1,4 +1,4 @@
 # demo
 this is my first git repository.
 <br>
-Author-zain abbasi (ai developer)
+Author-zain abbasi [ai developer]
